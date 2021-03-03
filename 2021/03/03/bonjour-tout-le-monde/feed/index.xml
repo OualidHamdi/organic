@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Commentaires sur : Bonjour tout le monde !	</title>
+	<atom:link href="/https://oualidhamdi.github.io/organic/2021/03/03/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://oualidhamdi.github.io/organic/2021/03/03/bonjour-tout-le-monde/</link>
+	<description>Un site utilisant WordPress</description>
+	<lastBuildDate>Wed, 03 Mar 2021 21:52:54 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>
+		Par : Un commentateur WordPress		</title>
+		<link>/https://oualidhamdi.github.io/organic/2021/03/03/bonjour-tout-le-monde/#comment-1</link>
+
+		<dc:creator><![CDATA[Un commentateur WordPress]]></dc:creator>
+		<pubDate>Wed, 03 Mar 2021 21:52:54 +0000</pubDate>
+		<guid isPermaLink="false">/https://oualidhamdi.github.io/organic/?p=1#comment-1</guid>
+
+					<description><![CDATA[Bonjour, ceci est un commentaire.
+Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.
+Les avatars des personnes qui commentent arrivent depuis &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Bonjour, ceci est un commentaire.<br />
+Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.<br />
+Les avatars des personnes qui commentent arrivent depuis <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
