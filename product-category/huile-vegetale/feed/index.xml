@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Huile végétale &#8211; organic</title>
+	<atom:link href="https://oualidhamdi.github.io/organic/product-category/huile-vegetale/feed/" rel="self" type="application/rss+xml" />
+	<link>https://oualidhamdi.github.io/organic</link>
+	<description>Un site utilisant WordPress</description>
+	<lastBuildDate>Thu, 04 Mar 2021 21:48:44 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+	<item>
+		<title>HUILE VÉGÉTALE D&#8217;OLÉINE DE KARITÉ</title>
+		<link>https://oualidhamdi.github.io/organic/product/huile-vegetale-doleine-de-karite/</link>
+					<comments>https://oualidhamdi.github.io/organic/product/huile-vegetale-doleine-de-karite/#respond</comments>
+		
+		<dc:creator><![CDATA[admin_organic]]></dc:creator>
+		<pubDate>Thu, 04 Mar 2021 20:33:06 +0000</pubDate>
+				<guid isPermaLink="false">https://oualidhamdi.github.io/organic/?post_type=product&#038;p=4096</guid>
+
+					<description><![CDATA[100% pure et naturelle, sans aucun traitement chimique.]]></description>
+										<content:encoded><![CDATA[<p>Ce concentré liquide de karité est idéal pour créer des soins pour peaux et cheveux secs. Il apporte un toucher soyeux à la peau et est apprécié dans la confection de soins d&rsquo;été et soins capillaires nourrissants et protecteurs.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://oualidhamdi.github.io/organic/product/huile-vegetale-doleine-de-karite/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>HUILE VÉGÉTALE D&#8217;ARGAN BIO</title>
+		<link>https://oualidhamdi.github.io/organic/product/huile-vegetale-dargan-bio/</link>
+					<comments>https://oualidhamdi.github.io/organic/product/huile-vegetale-dargan-bio/#respond</comments>
+		
+		<dc:creator><![CDATA[admin_organic]]></dc:creator>
+		<pubDate>Thu, 04 Mar 2021 19:01:05 +0000</pubDate>
+				<guid isPermaLink="false">https://oualidhamdi.github.io/organic/?post_type=product&#038;p=4088</guid>
+
+					<description><![CDATA[100% pure et naturelle, <strong>vierge</strong>, première pression à froid, sans aucun traitement chimique, qualité cosmétique]]></description>
+										<content:encoded><![CDATA[<p>Cette huile originaire du Maroc, riche en vitamine E et en insaponifiables, est réputée pour ses propriétés nourrissantes, régénérantes et restructurantes. Sa teneur en antioxydants en fait un actif idéal pour lutter contre les signes du vieillissement cutané, et ses acides gras redonnent souplesse et douceur aux peaux sèches et dénutries.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://oualidhamdi.github.io/organic/product/huile-vegetale-dargan-bio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
