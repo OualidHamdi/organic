@@ -449,24 +449,27 @@ function astra_hf_builder_customizer_defaults( $defaults ) {
 	 * Header Margin defaults.
 	 */
 	$defaults['section-header-builder-layout-margin'] = array(
-		'desktop' => array(
+		'desktop'      => array(
 			'top'    => '',
 			'right'  => '',
 			'bottom' => '',
 			'left'   => '',
 		),
-		'tablet'  => array(
+		'tablet'       => array(
 			'top'    => '',
 			'right'  => '',
 			'bottom' => '',
 			'left'   => '',
 		),
-		'mobile'  => array(
+		'mobile'       => array(
 			'top'    => '',
 			'right'  => '',
 			'bottom' => '',
 			'left'   => '',
 		),
+		'desktop-unit' => 'px',
+		'tablet-unit'  => 'px',
+		'mobile-unit'  => 'px',
 	);
 
 	/**
@@ -564,24 +567,27 @@ function astra_hf_builder_customizer_defaults( $defaults ) {
 	 * Footer Below Padding.
 	 */
 	$defaults['section-below-footer-builder-padding'] = array(
-		'desktop' => array(
+		'desktop'      => array(
 			'top'    => '',
 			'right'  => '',
 			'bottom' => '',
 			'left'   => '',
 		),
-		'tablet'  => array(
+		'tablet'       => array(
 			'top'    => '',
 			'right'  => '',
 			'bottom' => '',
 			'left'   => '',
 		),
-		'mobile'  => array(
+		'mobile'       => array(
 			'top'    => '',
 			'right'  => '',
 			'bottom' => '',
 			'left'   => '',
 		),
+		'desktop-unit' => 'px',
+		'tablet-unit'  => 'px',
+		'mobile-unit'  => 'px',
 	);
 
 	/**
@@ -1028,24 +1034,27 @@ function prepare_button_defaults( $defaults, $index ) {
 		'mobile'  => '',
 	);
 	$defaults[ 'header-' . $_prefix . '-padding' ]        = array(
-		'desktop' => array(
+		'desktop'      => array(
 			'top'    => '',
 			'right'  => '',
 			'bottom' => '',
 			'left'   => '',
 		),
-		'tablet'  => array(
+		'tablet'       => array(
 			'top'    => '',
 			'right'  => '',
 			'bottom' => '',
 			'left'   => '',
 		),
-		'mobile'  => array(
+		'mobile'       => array(
 			'top'    => '',
 			'right'  => '',
 			'bottom' => '',
 			'left'   => '',
 		),
+		'desktop-unit' => 'px',
+		'tablet-unit'  => 'px',
+		'mobile-unit'  => 'px',
 	);
 	$defaults[ 'header-' . $_prefix . '-border-size' ]    = array(
 		'top'    => '',
@@ -1102,24 +1111,27 @@ function prepare_button_defaults( $defaults, $index ) {
 		'mobile'  => '',
 	);
 	$defaults[ 'footer-' . $_prefix . '-padding' ]        = array(
-		'desktop' => array(
+		'desktop'      => array(
 			'top'    => '',
 			'right'  => '',
 			'bottom' => '',
 			'left'   => '',
 		),
-		'tablet'  => array(
+		'tablet'       => array(
 			'top'    => '',
 			'right'  => '',
 			'bottom' => '',
 			'left'   => '',
 		),
-		'mobile'  => array(
+		'mobile'       => array(
 			'top'    => '',
 			'right'  => '',
 			'bottom' => '',
 			'left'   => '',
 		),
+		'desktop-unit' => 'px',
+		'tablet-unit'  => 'px',
+		'mobile-unit'  => 'px',
 	);
 	$defaults[ 'footer-' . $_prefix . '-border-size' ]    = array(
 		'top'    => '',

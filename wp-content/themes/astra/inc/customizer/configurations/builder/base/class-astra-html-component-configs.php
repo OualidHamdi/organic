@@ -85,7 +85,7 @@ class Astra_Html_Component_Configs {
 					'section'     => $_section,
 					'transport'   => 'postMessage',
 					'priority'    => 4,
-					'default'     => 'Insert HTML text here.',
+					'default'     => astra_get_option( $builder_type . '-html-' . $index, 'Insert HTML text here.' ),
 					'input_attrs' => array(
 						'id' => $builder_type . '-html-' . $index,
 					),

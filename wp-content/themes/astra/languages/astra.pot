@@ -2,14 +2,14 @@
 # This file is distributed under the GNU General Public License v2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: Astra 3.1.0\n"
+"Project-Id-Version: Astra 3.1.1\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/astra\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2021-03-03T09:13:36+00:00\n"
+"POT-Creation-Date: 2021-03-05T11:31:14+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.4.0\n"
 "X-Domain: astra\n"
@@ -1517,8 +1517,8 @@ msgstr ""
 
 #. translators: %s Index
 #: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:155
-#: inc/core/builder/class-astra-builder-options.php:992
-#: inc/core/builder/class-astra-builder-options.php:1066
+#: inc/core/builder/class-astra-builder-options.php:998
+#: inc/core/builder/class-astra-builder-options.php:1075
 #: inc/core/class-astra-theme-options.php:228
 #: inc/customizer/configurations/builder/base/class-astra-button-component-configs.php:66
 #: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:184
@@ -1891,16 +1891,16 @@ msgstr ""
 msgid "Toggle Button"
 msgstr ""
 
-#: inc/core/builder/class-astra-builder-options.php:937
+#: inc/core/builder/class-astra-builder-options.php:943
 msgid "Log In"
 msgstr ""
 
-#: inc/core/builder/class-astra-builder-options.php:938
+#: inc/core/builder/class-astra-builder-options.php:944
 msgid "My Account"
 msgstr ""
 
-#: inc/core/builder/class-astra-builder-options.php:1155
-#: inc/core/builder/class-astra-builder-options.php:1187
+#: inc/core/builder/class-astra-builder-options.php:1167
+#: inc/core/builder/class-astra-builder-options.php:1199
 msgid "Insert HTML text here."
 msgstr ""
 
